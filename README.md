@@ -29,6 +29,15 @@ Repositorio que tiene lo basico de spring
 
 ### Subir desde Github Desktop
 
- - Crear un repositorio en github
- - Ingresar a github desktop y añadirlo a un repositorio existente
- - ![Imagen](https://www.entechlog.com/images/blog/vendor-logos/git_hu0e51f16f299b901974dc8c7c559a4bb9_48646_f81c8fc163b6ede2d840a5624a7d8d23.webp)
+ - Ingresar a github desktop y añadir la carpeta local a un repositorio existente
+ ![Github Desktop Inicio](/screenshots/desktop1.png)
+ - Seleccionar la carpeta (Si no tienes un repositorio creado localmente puedes crearlo desde ahi mismo presionando en `create a repository`)
+  ![Github Desktop Inicio](/screenshots/desktop2.png)
+- Llena los datos para crear un nuevo formulario
+  ![Github Desktop Inicio](/screenshots/desktop3.png)
+- Te aparecera una pestaña con los cambios
+  ![Github Desktop Inicio](/screenshots/desktop4.png)
+- Haz el commit con los nuevos cambios
+  ![Github Desktop Inicio](/screenshots/desktop5.png)
+- Publica la rama 
+  ![Github Desktop Inicio](/screenshots/desktop6.png)
