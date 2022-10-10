@@ -6,6 +6,8 @@ Repositorio que tiene lo basico de spring
 
 ## Subir a Github
 
+![Imagen](https://www.entechlog.com/images/blog/vendor-logos/git_hu0e51f16f299b901974dc8c7c559a4bb9_48646_f81c8fc163b6ede2d840a5624a7d8d23.webp)
+
 ### Desde consola
 
  - Crear un repositorio en github
@@ -25,3 +27,8 @@ Repositorio que tiene lo basico de spring
 
 
 
+### Subir desde Github Desktop
+
+ - Crear un repositorio en github
+ - Ingresar a github desktop y añadirlo a un repositorio existente
+ - ![Imagen](https://www.entechlog.com/images/blog/vendor-logos/git_hu0e51f16f299b901974dc8c7c559a4bb9_48646_f81c8fc163b6ede2d840a5624a7d8d23.webp)
