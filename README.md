@@ -15,5 +15,13 @@ Repositorio que tiene lo basico de spring
  - Poner los comandos a continuacion:
 
 > Comandos    
-> Iniciar repositorio en local
-> - `git init`
+> - Iniciar repositorio en local `git init`
+> - Añadir todos los archivos al repositorio local `git add .` (Punto signfica todos los archivos)
+> - Hacer un commit a los archivos añadidos `git commit -m "tu mensaje"`
+> - Definir el repositorio en github `git remote add origin <link https>`    
+> Ejemplo: `git remote add origin https://github.com/IRypS/PracticaSpringBasico.git`
+> - Subir el repositorio de local a github `git push origin <nombre rama>`    
+> Ejemplo: `git push origin master` || `git push origin main`
+
+
+
